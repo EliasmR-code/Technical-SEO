@@ -1,8 +1,8 @@
 title: SEO Técnico | Especialista en rendimiento, indexación y rastreo
 description: >-
   SEO técnico, análisis de rendimiento, rastreo e indexación para mejorar la visibilidad orgánica de tu sitio web.
-logo: /assets/img/logo.png
-theme: jekyll-theme-minimal
-show_downloads: false
 lang: es
 url: "https://eliasmr-code.github.io/Technical-SEO/"
+remote_theme: orderedlist/minimal
+plugins:
+  - jekyll-remote-theme
