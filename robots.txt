@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://eliasmr-code.github.io/Technical-SEO/sitemap.xml
