@@ -8,12 +8,11 @@ layout: default
 ## Especialista en rendimiento, indexación y rastreo
 
 <p class="lead">
-  Optimizo sitios para que Google pueda rastrearlos, entenderlos e indexarlos mejor.
+  Optimizo sitios para que Google los entienda, rastree e indexe mejor.
 </p>
 
 <div class="cta-row">
   <a class="btn-primary" href="mailto:elias@kaderank.com">Solicitar consulta</a>
-  <a class="btn-secondary" href="#servicios">Ver servicios</a>
 </div>
 
 ## Servicios
@@ -24,9 +23,10 @@ layout: default
 - SEO para WordPress y sitios web empresariales
 - Revisión de arquitectura de la información
 - Mejora de enlaces internos y estructura del sitio
-- Asesoría técnica para posicionamiento sostenible
 
 ## Contacto
+
+Si quieres mejorar la visibilidad orgánica de tu negocio, puedo ayudarte.
 
 <a class="btn-primary" href="mailto:elias@kaderank.com">Contactar por email</a>
 
